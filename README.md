@@ -37,7 +37,7 @@ These are the tools and languages I use to bring ideas to life:
 Performance and language metrics for **hykaika** :
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykaika&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykaika&theme=tokyonight&layout=donut&hide_border=false&include_all_commits=true&count_private=true" alt="hykaika's Top Languages" />
 </p>
 
 <p align="center">
