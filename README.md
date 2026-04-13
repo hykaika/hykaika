@@ -1,4 +1,4 @@
-#Hi there, I'm hykaika! 👋
+# Hi there, I'm hykaika! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hykaika&label=Profile%20views&color=7aa2f7&style=for-the-badge&logo=github" alt="Views" />
@@ -7,9 +7,9 @@
 ---
 
 ### 💫 About Me
-I am a creative developer.
+I am a Fun developer
 
-- 🌱 I’m currently learning **Java,Js**
+- 🌱 I’m currently learning **Java and js**
 - 💬 Ask me about **Anime**
 - 🎮 **Minecraft:** Running my own custom Minecraft Server!
 - ⚡ Fun fact: **I debug in my sleep.**
@@ -17,6 +17,7 @@ I am a creative developer.
 ---
 
 ### 👥 My Teams
+
 - 🛡️ **[@Teamhyk](https://github.com/Teamhyk)**
 - 🌸 **[@Waifuseek](https://github.com/Waifuseek)**
 
@@ -33,14 +34,12 @@ These are the tools and languages I use to bring ideas to life:
 
 ---
 
-### 📊 GitHub Stats
-Performance and language metrics for **hykaika** :
-
+### 📊 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykaika&theme=tokyonight&layout=donut&hide_border=false&include_all_commits=true&count_private=true" alt="hykaika's Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hykaika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hykaika&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hykaika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hykaika&theme=tokyonight&hide_border=false" />
 </p>
