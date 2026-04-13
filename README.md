@@ -36,7 +36,7 @@ These are the tools and languages I use to bring ideas to life:
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykaika&theme=tokyonight&layout=donut&hide_border=false&include_all_commits=true&count_private=true" alt="hykaika's Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=hykaika&theme=tokyonight&layout=donut&hide_border=false&include_all_commits=true&count_private=true" alt="hykaika's Top Languages" />
 </p>
 
 <p align="center">
