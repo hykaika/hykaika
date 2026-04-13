@@ -13,6 +13,7 @@ I am a Fun developer
 - 💬 Ask me about **Anime**
 - 🎮 **Minecraft:** Running my own custom Minecraft Server!
 - ⚡ Fun fact: **I debug in my sleep.**
+- 🤖 Fun fact 2  **Ai is my best Friend xD.**
 
 ---
 
