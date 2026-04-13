@@ -1,16 +1,46 @@
-## Hi there 👋
+# # Hi there, I'm hykaika! 👋
 
-<!--
-**hykaika/hykaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hykaika&label=Profile%20views&color=7aa2f7&style=for-the-badge&logo=github" alt="Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+I am a creative developer.
+
+- 🌱 I’m currently learning **Java,Js**
+- 💬 Ask me about **Anime**
+- 🎮 **Minecraft:** Running my own custom Minecraft Server!
+- ⚡ Fun fact: **I debug in my sleep.**
+
+---
+
+### 👥 My Teams
+- 🛡️ **[@Teamhyk](https://github.com/Teamhyk)**
+- 🌸 **[@Waifuseek](https://github.com/Waifuseek)**
+
+---
+
+### 🛠 Tech Stack
+These are the tools and languages I use to bring ideas to life:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+Performance and language metrics for **hykaika** :
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykaika&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hykaika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hykaika&theme=tokyonight&hide_border=true" />
+</p>
