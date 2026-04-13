@@ -1,4 +1,4 @@
-# # Hi there, I'm hykaika! 👋
+#Hi there, I'm hykaika! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hykaika&label=Profile%20views&color=7aa2f7&style=for-the-badge&logo=github" alt="Views" />
@@ -37,7 +37,7 @@ These are the tools and languages I use to bring ideas to life:
 Performance and language metrics for **hykaika** :
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykaika&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)" />
 </p>
 
 <p align="center">
