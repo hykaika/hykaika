@@ -19,7 +19,7 @@ I am a Fun developer
 
 ### 👥 My Teams
 
-- 🛡️ **[@Teamhyk](https://github.com/Teamhyk)**
+- 🛡️ **[@Teamhyk](https://github.com/TeamhykDE)**
 - 🌸 **[@Waifuseek](https://github.com/Waifuseek)**
 
 ---
