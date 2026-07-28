@@ -9,11 +9,10 @@
 ### 💫 About Me
 I am a Fun developer
 
-- 🌱 I’m currently learning **Java and js**
+- 🌱 I’m currently learning **Java,js and TypeScript**
 - 💬 Ask me about **Anime**
 - 🎮 **Minecraft:** Running my own custom Minecraft Server!
-- ⚡ Fun fact: **I debug in my sleep.**
-- 🤖 Fun fact 2  **Ai is my best Friend xD.**
+- ⚡ Fun fact: **I sleep in my sleep.***
 
 ---
 
