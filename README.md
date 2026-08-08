@@ -20,8 +20,7 @@ I am a Fun developer
 
 - 🛡️ **[@TeamhykDE](https://github.com/TeamhykDE)**
 - 🌸 **[@Waifuseek](https://github.com/Waifuseek)**
-
----
+- 🍋‍🟩 **[@Citrus-Client](https://github.com/Citrus-Client)** (BugHunter)
 
 ### 🛠 Tech Stack
 These are the tools and languages I use to bring ideas to life:
