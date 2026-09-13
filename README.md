@@ -1,4 +1,4 @@
 # idfc
-@TeamhykDE
-@Waifuseek
-@HeyYukiAI
+TeamhykDE [@TeamhykDE]
+Waifuseek [@Waifuseek]
+HeyYukiAI [@HeyYukiAI]
